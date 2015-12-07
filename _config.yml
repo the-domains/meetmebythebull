@@ -1,7 +1,7 @@
 name: meetmebythebull
 favicon: null
-layout_spectrum: 0.8471037403214723
-typography_spectrum: 0.17295282054692507
+layout_spectrum: 0.33639
+typography_spectrum: 0.2429
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.42574281338602304
+    - '#01408d'
+    - '#e2d902'
+    - '#000000'
+    - '#2e5f72'
+    - '#82973d'
+  brandStrength: 0.5625
   lightness: 0.5125292311422527
   saturation: 0.5330855411011726
   rhythmicContrast: 0.13302230881527066
