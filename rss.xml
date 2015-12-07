@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Meet Me By The Bull]]></title>
+        <description><![CDATA[Meet Me By The Bull]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Dec 2015 16:46:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet me by the Bull]]></title>
+            <description><![CDATA[<article><h1>Meet me by the Bull</h1><p>Meet me by the Bull provide high quality apparel for those in love with the City of Birmingham.</p></article>]]></description>
+            <link>undefinedmeet-me-by-the-bull/index.html</link>
+            <guid isPermaLink="false">8c0dcf20-3b67-4056-a5e4-f1eca3f401d8</guid>
+            <pubDate>Mon, 07 Dec 2015 16:46:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
