@@ -2,6 +2,7 @@ name: meetmebythebull
 favicon: null
 layout_spectrum: 0.33639
 typography_spectrum: 0.2429
+title: Meet Me By The Bull
 cta:
   domain: null
   bucket: null
